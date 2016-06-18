@@ -36,3 +36,6 @@ Percakapan :
 </table>
 
 Silakan Putar Audio Percakapan Gambar Diatas :
+<audio controls="">
+<source src="_data/Lesson1.mp3"></source>
+</audio>
