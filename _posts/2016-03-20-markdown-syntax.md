@@ -11,5 +11,15 @@ tag:
 - jekyll
 comments: true
 ---
+Percakapan :
 
+クオン	はじめまして。	            Apa kabar?
+KUON	HAJIMEMASHITE.	
+	    私はクオンです。	        Saya Kuon.
+    	WATASHI WA KUON DESU.	
+    	ベトナムから来ました。	    Saya berasal dari Vietnam.
+    	BETONAMU KARA KIMASHITA. 	
+    	よろしくお願いします。	    Senang bertemu Anda.
+    	YOROSHIKU ONEGAI SHIMASU.	
 
+Silakan Putar Audio Percakapan Gambar Diatas :
