@@ -41,9 +41,25 @@ Percakapan :
   </tr>
 </table>
 Silakan Putar Audio Percakapan Gambar Diatas : <br>
-<audio controls="controls" widht="100%" height="auto">
-							<source src="Lesson1.mp3" />
-							Teks ini akan muncul jika browser tidak support HTML5 Audio tag.
-</audio>
+<audio src="Lesson1.mp3" > </audio>
 </html>
 </body>
+script>
+var player = new MediaElementPlayer('#player', {success: function(mediaElement, originalNode) {
+    // do things
+}});
+</script>  
+<script>
+$('video').mediaelementplayer({success: function(mediaElement, originalNode) {
+    // do things
+}});
+</script>
+<script src="mediaelement.js"></script>
+<video src="myvideo.mp4" width="320" height="240"></video>
+
+<script>
+var v = document.getElementsByTagName("video")[0];
+new MediaElement(v, {success: function(media) {
+    media.play();
+}});
+</script>
