@@ -9,4 +9,4 @@ tag:
 - video
 comments: true
 ---
-<iframe width="560" height="200" src="https://kuuma95.github.io/Lesson1.mp3" frameborder="0"> </iframe>
+<iframe src="https://kuuma95.github.io/Lesson1.mp3" frameborder="0"> </iframe>
