@@ -9,9 +9,9 @@ date: 2016-03-21
 
 ## Kelompok 2 :
 
-1.Zukri Adinalta
-2.
-3.
-4
+1.Zukri Adinalta <br>
+2. <br>
+3. <br>
+4. <br>
 
 
