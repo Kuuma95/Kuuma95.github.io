@@ -9,4 +9,42 @@ tag:
 - video
 comments: true
 ---
+<table border="0" cellpadding="0" cellspacing="0">
+  <tbody>
+    <tr>
+      <th>&#23665;&#30000;</th>
+      <td>&#12463;&#12458;&#12531;&#12373;&#12435;&#12290;<br />
+        &#12371;&#12428;&#12364;&#12354;&#12394;&#12383;&#12398;&#21517;&#21050;&#12391;&#12377;&#12290;</td>
+      <td rowspan="2">Kuon,<br />
+        ini kartu nama Anda.</td>
+    </tr>
+    <tr>
+      <th>YAMADA</th>
+      <td>KUON-SAN,<br />
+        KORE GA ANATA NO<br />
+        MEISHI DESU.</td>
+    </tr>
+    <tr>
+      <th>&#12463;&#12458;&#12531;</th>
+      <td>&#12354;&#12426;&#12364;&#12392;&#12358;&#12372;&#12374;&#12356;&#12414;&#12377;&#12290;<br />
+        &#12381;&#12428;&#12399;&#20309;&#12391;&#12377;&#12363;&#65311;</td>
+      <td rowspan="2">Terima kasih banyak.<br />
+        Apa itu?</td>
+    </tr>
+    <tr>
+      <th>KUON</th>
+      <td>ARIGAT&Ocirc; GOZAIMASU.<br />
+        SORE WA NAN DESU KA?</td>
+    </tr>
+    <tr>
+      <th>&#23665;&#30000;</th>
+      <td>&#12371;&#12428;&#12399;&#31038;&#21729;&#35388;&#12391;&#12377;&#12290;</td>
+      <td rowspan="2">Ini kartu tanda pengenal Anda.</td>
+    </tr>
+    <tr>
+      <th>YAMADA</th>
+      <td>KORE WA SHAINSH&Ocirc; DESU.</td>
+    </tr>
+  </tbody>
+</table>
 <iframe src="https://kuuma95.github.io/Lesson1.mp3" frameborder="0"> </iframe>
