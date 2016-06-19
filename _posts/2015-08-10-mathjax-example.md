@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "MathJax Example"
+title:  "Pelajaran3: Ya, saya mengerti. "
 date:   2015-08-10
 excerpt: "MathJax Example for Moon Jekyll Theme."
 tag:
@@ -11,42 +11,45 @@ tag:
 - jekyll
 comments: true
 ---
+Ibu Yamada yang bertugas memandu Kuon sedang memeriksa jadwal hari ini ketika tiba-tiba ia menyadari hari ini ada rapat penting. <br>
 
-[MathJax](http://www.mathjax.org/) is a simple way of including Tex/LaTex/MathML based mathematics in HTML webpages. To get up and running you need to include the MathJax script in the header of your github pages page, and then write some maths. For LaTex, there are two delimiters you need to know about, one for block or displayed mathematics `\[ ... \]`, and the other for inline mathematics `\( ... \)`.
+Percakapan :
+<table border="0" cellpadding="0" cellspacing="0">
+  <tbody>
+    <tr>
+      <th>&#23665;&#30000;</th>
+      <td>&#12463;&#12458;&#12531;&#12373;&#12435;&#12289;&#12385;&#12423;&#12387;&#12392;&hellip;&#12290;</td>
+      <td rowspan="2">Kuon, ada waktu sebentar?</td>
+    </tr>
+    <tr>
+      <th>YAMADA</th>
+      <td>KUON-SAN, CHOTTO...</td>
+    </tr>
+    <tr>
+      <th>&#12463;&#12458;&#12531;</th>
+      <td>&#12399;&#12356;&#12290;</td>
+      <td rowspan="2">Ya.</td>
+    </tr>
+    <tr>
+      <th>KUON</th>
+      <td>HAI.</td>
+    </tr>
+    <tr>
+      <th>&#23665;&#30000;</th>
+      <td>&#20170;&#26085;&#12289;&#12371;&#12428;&#12363;&#12425;&#20250;&#35696;&#12364;&#12354;&#12426;&#12414;&#12377;&#12290;<br />
+        &#20986;&#12390;&#19979;&#12373;&#12356;&#12290;</td>
+      <td rowspan="2">Hari ini ada rapat, mulai dari sekarang.<br />
+        Tolong hadir.</td>
+    </tr>
+    <tr>
+      <th>YAMADA</th>
+      <td>KY&Ocirc;, KOREKARA KAIGI GA&#12288;ARIMASU.<br />
+        DETE KUDASAI.</td>
+    </tr>
+    <tr>
+      <th>&#12463;&#12458;&#12531;</th>
+      <td>&#12399;&#12356;&#12289;&#12431;&#12363;&#12426;&#12414;&#12375;&#12383;&#12290;<br />
+        &#22580;&#25152;&#12399;&#12393;&#1237
 
-## Usage
-
-To enable MathJax support be sure Kramdown is your Markdown flavor of choice and MathJax is set to true in your `_config.yml` file.
-
-~~~
-markdown: kramdown
-mathjax: true
-~~~
-
-~~~
-Here is an example MathJax inline rendering \\( 1/x^{2} \\), and here is a block rendering: 
-\\[ \frac{1}{n^{2}} \\]
-~~~
-
-Here is an example MathJax inline rendering \\( 1/x^{2} \\), and here is a block rendering: 
-\\[ \frac{1}{n^{2}} \\]
-
-The only thing to look out for is the escaping of the backslash when using markdown, so the delimiters become `\\[ ... \\]` and `\\( ... \\)` for inline and block maths respectively.
-    
-
-$$
-\begin{align*}
-  & \phi(x,y) = \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right)
-  = \sum_{i=1}^n \sum_{j=1}^n x_i y_j \phi(e_i, e_j) = \\
-  & (x_1, \ldots, x_n) \left( \begin{array}{ccc}
-      \phi(e_1, e_1) & \cdots & \phi(e_1, e_n) \\
-      \vdots & \ddots & \vdots \\
-      \phi(e_n, e_1) & \cdots & \phi(e_n, e_n)
-    \end{array} \right)
-  \left( \begin{array}{c}
-      y_1 \\
-      \vdots \\
-      y_n
-    \end{array} \right)
-\end{align*}
-$$
+Silakan Putar Audio Percakapan Gambar Diatas :
+<iframe src="https://kuuma95.github.io/Lesson3_8bit.ogg" frameborder="0"> </iframe>
