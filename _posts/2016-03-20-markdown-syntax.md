@@ -36,6 +36,7 @@ Percakapan :
 </table>
 
 Silakan Putar Audio Percakapan Gambar Diatas :
-<audio controls>
-<source src="Lesson1.mp3" type="audio/mpeg">
+<audio controls="controls" widht="100%" height="auto">
+							<source src="Lesson1.mp3" />
+							Teks ini akan muncul jika browser tidak support HTML5 Audio tag.
 </audio>
