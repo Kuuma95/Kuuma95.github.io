@@ -1,3 +1,5 @@
+<!DOCTYPE HTML>
+<html manifest="demo.appcache">
 # Site
 title:              Kumaクマ
 bio:                'Belajar Bahasa Jepang'
@@ -73,3 +75,4 @@ jekyll-mentions:
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
+</html>
