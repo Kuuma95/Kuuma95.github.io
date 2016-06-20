@@ -11,8 +11,7 @@ tiled_bg:           false   # Set this true if you want to tile your background 
 locale:             en_US
 url:                https://kuuma95.github.io/
 
-<!DOCTYPE HTML>
-<html manifest="demo.appcache">
+
 # Jekyll
 permalink:          /:title/
 markdown:           kramdown
@@ -75,4 +74,3 @@ jekyll-mentions:
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
-</html>
