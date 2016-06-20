@@ -1,5 +1,4 @@
-<!DOCTYPE HTML>
-<html manifest="demo.appcache">
+
 # Site
 title:              Kumaクマ
 bio:                'Belajar Bahasa Jepang'
@@ -12,7 +11,8 @@ tiled_bg:           false   # Set this true if you want to tile your background 
 locale:             en_US
 url:                https://kuuma95.github.io/
 
-
+<!DOCTYPE HTML>
+<html manifest="demo.appcache">
 # Jekyll
 permalink:          /:title/
 markdown:           kramdown
