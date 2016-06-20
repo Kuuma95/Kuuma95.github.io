@@ -10,8 +10,9 @@ date: 2016-03-21
 ## Kelompok 2 :
 
 1.Zukri Adinalta <br>
-2. <br>
-3. <br>
-4. <br>
+2.Mukhtar Lutfi<br>
+3.Jukhri Syahputra Banchin<br>
+4.Fauzar<br>
+5.Siti Romlah<br>
 
 
