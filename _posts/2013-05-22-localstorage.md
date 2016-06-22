@@ -1,6 +1,19 @@
 <!DOCTYPE HTML>
 <html>
 <head>
+---
+layout: post
+title:  "Logalstorage "
+date:   2013-05-22
+excerpt: "Ibu Yamada yang bertugas memandu Kuon sedang memeriksa jadwal hari ini ketika tiba-tiba ia menyadari hari ini ada rapat penting."
+tag:
+- markdown 
+- mathjax
+- example
+- test
+- jekyll
+comments: true
+---
 <meta http-equiv="Content-type" content="text/html; charset=utf-8">
 <title>Percobaan HTML5 Local Storage</title>
 <script type="text/javascript" charset="utf-8" src="jquery.js"></script>
